@@ -1,0 +1,17 @@
+.div_header{
+    background-color: lightblue;
+}
+
+.p_center{
+    text-align: center;
+}
+
+.h_gold{
+    color:goldenrod
+}
+
+.h_italic{
+    font-style: italic;
+    font-weight: bold;
+}
+
