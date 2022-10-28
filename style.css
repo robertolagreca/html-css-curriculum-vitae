@@ -16,7 +16,11 @@
 }
 
 .goldbar{
-    border: 2px solid goldenrod;
+    height: 5px;
+    background-color:goldenrod;
 }
 
-
+.narrow_margins{
+    margin-right: 10px;
+    margin-left: 10px;
+}
